@@ -1,8 +1,3 @@
-/*CSci4061 F2018 Assignment 2
-* login: chanx393 (login used to submit)
-* date: 11/10/18
-* name: Kin Nathan Chan, Cyro Chun Fai Chak, Isaac Aruldas (for partner(s))
-* id: 5330106- chanx393, 5312343 - chakx011, 5139488 - aruld002 */
 #include <stdio.h>
 #include <fcntl.h>
 #include <errno.h>

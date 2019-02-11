@@ -1,20 +1,10 @@
 # CSCI 4061: Multi-Threaded Web Server
-
-CSci4061 F2018 Assignment 2
-login: chanx393 (login used to submit)
-date: 11/10/18
-name: Kin Nathan Chan, Cyro Chun Fai Chak, Isaac Aruldas (for partner(s))
-id: 5330106- chanx393, 5312343 - chakx011, 5139488 - aruld002
+This is a group project.
 
 This code is acts as a basic multithreaded server whose job is to retrieve data for the clients, and will
 then retrieve the data from the disk or the cache .It will also be able to create new threads or kill
 existing threads depending on the workload. It is also capable of using the LFU used policy to get rid of
 the stuff in the cache when it runs out of space.
-
-### Individual Contribution
-Cyro: Initial draft of the application, BugFix, Phase 1 coding, README
-Isaac: Initial draft of the application, BugFix, Phase 1 coding, README
-Nathan: Final draft of the application, Bug Fix, Phase 1 coding, README
 
 ### Getting Started
 1. _cp_ the project to your personal repo

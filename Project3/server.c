@@ -1,8 +1,3 @@
-/* CSci4061 Fall 2018 Project 3
-* login: chanx393 (login used to submit)
-* date: 12/12/18
-* name: Kin Nathan Chan, Cyro Chun Fai Chak, Isaac Aruldas (for partner(s))
-* id: 5330106- chanx393, 5312343 - chakx011, 5139488 - aruld002 */
 #include <string.h>
 #include <unistd.h>
 #include <stdlib.h>

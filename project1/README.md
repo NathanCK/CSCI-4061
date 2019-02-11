@@ -1,10 +1,5 @@
 # CSCI 4061: Simple Make
-
-CSci4061 F2018 Assignment 1
-login: chanx393 (login used to submit)
-date: 10/04/18
-name: Kin Nathan Chan  , Cyro Chun Fai Chak, Isaac Aruldas (for partner(s))
-id:   5330106- chanx393, 5312343 - chakx011, 5139488 - aruld002
+This is a group project.
 
 The Simple Make is an utility program what will build executable libraries or
 program such as .o files or libraries based on the Makefile in the directory.
@@ -12,13 +7,6 @@ The simple Makefile will administrate the similar functionality of the GNU make,
 such as generating the executable files or clean all the executable libraries
 etc. Once the simple makefile is generated, it can be used in any program files
 that can replace the functionality of GNU make.
-
-
-### Individual Contribution
-Cyro: Initial draft of the SimpleMake, BugFix, Phase 1 coding, README
-Isaac: Intermediate draft of the SimpleMake, BugFix, Phase 1 coding, README
-Nathan: Final draft of the SimpleMake, Bug Fix, Phase 1 coding, README
-
 
 ### Getting Started
 1. _cp_ the project to your personal repo

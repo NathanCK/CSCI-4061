@@ -1,10 +1,5 @@
 # CSCI 4061: Multi-ProcessChatApp
-
-CSci4061 F2018 Assignment 2
-login: chanx393 (login used to submit)
-date: 11/10/18
-name: Kin Nathan Chan, Cyro Chun Fai Chak, Isaac Aruldas (for partner(s))
-id: 5330106- chanx393, 5312343 - chakx011, 5139488 - aruld002
+This is a group project.
 
 In this project, we will create a multi-process chat application. There exists
 a main parent process called the `server` process, and several `child` processes
@@ -13,11 +8,6 @@ simple version of chat application, that allow client to another client publicly
 or privately with a p2p function. Beside basic chat function, we have also assign
 the server to have some functionality such as kick user, close server, list out
 all the user and announcement.
-
-### Individual Contribution
-Cyro: Initial draft of the application, BugFix, Phase 1 coding, README
-Isaac: Initial draft of the application, BugFix, Phase 1 coding, README
-Nathan: Final draft of the application, Bug Fix, Phase 1 coding, README
 
 ### Getting Started
 1. _cp_ the project to your personal repo

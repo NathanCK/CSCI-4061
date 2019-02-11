@@ -1,10 +1,3 @@
-/* CSci4061 F2018 Assignment 1
-* login: chanx393 (login used to submit)
-* date: 10/04/18
-* name: Kin Nathan Chan, Cyro Chun Fai Chak, Isaac Aruldas (for partner(s))
-* id: 5330106- chanx393, 5312343 - chakx011, 5139488 - aruld002 */
-
-// This is the main file for the code
 #include <errno.h>
 #include <fcntl.h>
 #include <stdio.h>
